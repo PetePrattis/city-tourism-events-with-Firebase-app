@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.unipi.p15120.visageathens.MainActivity">
+
+
+    <item
+        android:id="@+id/favourites"
+        android:orderInCategory="70"
+        android:icon="@drawable/ic_favorite_b_24dp"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/signout"
+        android:orderInCategory="100"
+        android:title="Sign Out"
+        app:showAsAction="always" />
+
+</menu>

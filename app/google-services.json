@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010269867434",
+    "firebase_url": "https://athensvision-f32e7.firebaseio.com",
+    "project_id": "athensvision-f32e7",
+    "storage_bucket": "athensvision-f32e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010269867434:android:566422d3497d2731",
+        "android_client_info": {
+          "package_name": "com.unipi.p15120.visageathens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010269867434-nbdvcgqam3grkgsp5j80dj7bov5arpjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unipi.p15120.visageathens",
+            "certificate_hash": "496ce067cae3b27ef214f98cf0109f273a3a10ae"
+          }
+        },
+        {
+          "client_id": "1010269867434-4dv6cv8bkuoo353i1u5oatur4qc982io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRtuuEXvb_XKfxvgRH7kyi6ipqe6y_lE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010269867434-4dv6cv8bkuoo353i1u5oatur4qc982io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

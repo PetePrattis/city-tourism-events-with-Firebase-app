@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VisageAthens</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="acropolis"><b>Τύπος:</b>\n
+        Cocktail Bars \n \n
+        <b>Εισαγωγή</b>:\n
+Το rooftop bar του <i>«Athens Cypria Hotel»</i> ειδικεύεται στα κλασικά κοκτέιλ, τα οποία απολαμβάνεις με θέα στην Ακρόπολη
+και την κατάφωτη πόλη συνοδεία soulful house μουσικής.
+\n
+<b>Περιγραφή:</b> \n
+Το roof garden του <i>Athens Cypria Hotel</i> που βρίσκεται στον 7ο όροφο των εγκαταστάσεων του ξενοδοχείου
+προσφέρει στον επισκέπτη την απόλαυση μιας υπέροχης θέας της Ακρόπολης αλλά και της πόλης.
+Το bar ειδικεύεται σε κλασσικά κοκτέιλ που συνοδεύονται με soulful μουσική σε έναν χώρο
+λιτά διακοσμισμένο με όμορφη ατμόσφαιρα.
+\n
+<b>Ωράριο:</b>\n
+Πάντα Ανοιχτά
+\n
+<b>Τηλ:</b>\n
+2103230470
+\n
+<b>Διεύθυνση:</b>\n
+Διομείας 5, Σύνταγμα, Κέντρο
+\n
+<b>Τιμές:</b>\n
+€ 8-12
+        ajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+        ajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+        ajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+        ajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+        ajkdkshdkshdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+    </string>
+</resources>
